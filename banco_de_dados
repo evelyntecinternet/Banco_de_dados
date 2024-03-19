@@ -1,27 +1,34 @@
+#O que é banco de dados?
 Uma junção de informações ou dados,armazenados em um sistema computacional.
 Os dados são armazenados e são modelados em linhas e colunas em uma série de tabelas para tornar o processamento e a consulta de dados eficientes.
 Maioria dos bancos de dados utiliza SQL para escrever e consultar dados.
 
-Structured Query Language, Linguagem de consulta estruturada = SQL 
+###Structured Query Language, Linguagem de consulta estruturada = SQL 
 SQL é uma linguagem de programação usada pelos bancos de dados relacionais para consultar,manipular e definir dados e fornercer controle de dados.
 
-EVOLUÇÃO DOS BANCOS DE DADOS
+#EVOLUÇÃO DOS BANCOS DE DADOS
 O banco de dados evoluíram muito desde sua criação, Bancos de dados de navegação, como o banco de dados hierárquico (que se baseava em um modelo de árvore e permitia apenas um relacionamento um-para-muitos),
 e o banco de dados de rede (um modelo mais flexível que permitia múltiplos relacionamentos)eram os sistemas originais usados para armazenar e manipular dados.
 Em 1980 se tornaram popular banco de dados relacionais,seguidos por banco de dados orientados a objetos na década de 1990.
 bancos de dados NoSQL surgiram como uma resposta ao crescimento da internet e à necessidade de maior velocidade e processamento de dados não estruturados.
 Hoje, bancos de dados na nuvem e bancos de dados autônomos estão abrindo novos caminhos quando se trata de como os dados são coletados, armazenados, gerenciados e utilizados.
 
- TIPOS DE BANCOS DE DADOS
+#TIPOS DE BANCOS DE DADOS:
 Existem diversos bancos de dados,e tudo depende do que e como você quer armazenar.
 
-Bancos de dados relacionais: Os itens dentro desse banco de dados são organizados como tabelas,e relaciona uma ou mais tabelas afim de coletar informações complemwntares.
+###Bancos de dados relacionais: Os itens dentro desse banco de dados são organizados como tabelas,e relaciona uma ou mais tabelas afim de coletar informações complemwntares.
 
-Bancos de dados orientados a objetos: Os dados são armazenados como objetos,e cada objeto possui o seu próprio valor,e só podem ser manipulados pelos métodos definidos pela classe do objeto.
+###Bancos de dados orientados a objetos: Os dados são armazenados como objetos,e cada objeto possui o seu próprio valor,e só podem ser manipulados pelos métodos definidos pela classe do objeto.
 
-Bancos de dados distribuídos: Um sistema de gerenciamento de banco de dados no qual os bancos de dados não estão localizados em um sistema de servidor comum.
+###Bancos de dados distribuídos: Um sistema de gerenciamento de banco de dados no qual os bancos de dados não estão localizados em um sistema de servidor comum.
 Os bancos de dados podem ser armazenados em vários computadores de dados localizados no mesmo local físico, ou podem ser distribuídos por uma rede local ou várias.
 
-Data warehouses: Repositório de dados,criado para ajudar a analizar e tomar decisoês mais rápidas.
+###Data warehouses: Repositório de dados,criado para ajudar a analizar e tomar decisoês mais rápidas.
 
-Bancos de dados NoSQL: Ou Banco de dados não relacionais,indeped
+###Bancos de dados NoSQL: Ou Banco de dados não relacionais,independente como você o chama,é um banco de dados que pode processar grandes volumes de dados não estruturados e 
+em constante mudança de maneiras diferentes de um banco de dados relacional (SQL) com linhas e tabelas.
+
+###Bancos de dados gráficos: No Banco de Dados de Gráficos, cada nó representa uma entidade, como uma pessoa, um lugar ou um objeto, e as arestas representam os relacionamentos entre essas entidades.
+Essas arestas podem ter propriedades, que são informações adicionais sobre o relacionamento.
+
+
